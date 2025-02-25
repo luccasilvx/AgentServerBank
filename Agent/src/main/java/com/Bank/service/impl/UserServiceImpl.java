@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import java.util.NoSuchElementException;
 
 @Service
-public class UserSericeImpl implements UserService { //garante que nao esta expondo a implementacao da camada de servico
+public class UserServiceImpl implements UserService { //garante que nao esta expondo a implementacao da camada de servico
 
     @Autowired
     private UserRepository repository;
