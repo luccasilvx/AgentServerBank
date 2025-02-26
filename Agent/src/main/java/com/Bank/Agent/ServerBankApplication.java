@@ -1,4 +1,4 @@
-package com.Bank.Agent;
+package com.bank.agent;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
